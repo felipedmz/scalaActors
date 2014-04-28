@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mRunning SistemaColetor [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/var/www/scalaActors/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/felipe/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/felipe/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2.3.jar[0m
+[0m[[0mdebug[0m] [0m	/home/felipe/.ivy2/cache/com.typesafe/config/bundles/config-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread sistema-coletor-system-akka.actor.default-dispatcher-3 to exit[0m
